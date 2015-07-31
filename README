@@ -2,14 +2,14 @@
 项目：驾航服务
 Team member : lfy qq wqs wwb wzm
 
-设计：qq
-后台：wqs wzm
-android : wwb
-ios : lfy
+设计	：	qq
+后台	：	wqs wzm
+android :	wwb
+ios 	: 	lfy
 
+需求		：REQUIREMENT
+原型		：	https://modao.cc/app/V1uQUKn4AUYempGy8geu
+api 		:  	api.go
+数据库设计  ： 	db.vsd
 
-原型工具：https://modao.cc/app/V1uQUKn4AUYempGy8geu
-
-
-api :  api.go
 

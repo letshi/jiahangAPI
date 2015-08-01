@@ -10,6 +10,6 @@ ios 	: 	lfy
 需求		：REQUIREMENT
 原型		：	https://modao.cc/app/V1uQUKn4AUYempGy8geu
 api 		:  	api.go
-数据库设计  ： 	db.vsd
+数据库设计	： 	db.vsd
 
 

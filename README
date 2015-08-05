@@ -2,14 +2,18 @@
 项目：驾航服务
 Team member : lfy qq wqs wwb wzm
 
-设计	：	qq
-后台	：	wqs wzm
-android :	wwb
-ios 	: 	lfy
+设计	: qq
+后台	: wqs wzm
+android : wwb
+ios 	: lfy
 
-需求		：REQUIREMENT
-原型		：	https://modao.cc/app/V1uQUKn4AUYempGy8geu
-api 		:  	api.go
-数据库设计	： 	db.vsd
+需求描述   : REQUIREMENT
+原型设计   : https://modao.cc/app/V1uQUKn4AUYempGy8geu
+数据库设计 : db_design.png jiahang.mwb
+
+PS:
+jiahang.mwb use mysql_workbench open
+link: http://dev.mysql.com/downloads/workbench/
+
 
 
